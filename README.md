@@ -1,34 +1,51 @@
-# Hi 👋, I'm Shinji
+# Shinji
 
-🎓 Computer Science student at Guangdong University of Technology
+计算机方向学习者，正在从编程基础、全栈开发和 AI Agent 工具三个方向逐步积累项目。
 
-I'm currently building my programming foundations and learning how to turn real-world problems into useful software.
+我更关注能解决实际问题的软件：把日常重复工作自动化，把真实业务流程做成可维护的系统，并在项目中补齐工程能力。
 
-## 🌱 Currently Learning
+## 正在学习
 
-- C++
-- Python
-- Data Structures and Algorithms
+- C++、Python、数据结构与算法
+- 前端、Node.js、MySQL、部署与运维基础
+- AI Agent、自动化工具、多 Agent 协作流程
+- Git、GitHub、项目文档和长期维护
 
-## 🚀 Areas of Interest
+## 公开项目
 
-- Artificial Intelligence
-- Full-Stack Development
-- Machine Learning
+### [black-persian-cat](https://github.com/shinji00222/black-persian-cat)
 
-## 🔨 Featured Project
+Windows 像素风黑色波斯猫桌面宠物。项目包含可运行程序、打包产物和发布说明，重点练习 Python 桌面应用、资源打包和 GitHub Release。
 
-### [GDUT Opportunity Watcher](https://github.com/shinji00222/project)
+### [project](https://github.com/shinji00222/project)
 
-A Windows application that collects competition, internship, and international study opportunities for GDUT students. It supports scheduled checks, personalized eligibility matching, project bookmarking, and Windows notifications.
+广东工业大学竞赛、实习与出国机会提醒工具。项目用于练习信息采集、规则筛选、定时任务、Windows 通知和面向实际需求的工具开发。
 
-## 🎯 Current Goals
+## 私有项目经历
 
-- Strengthen my programming fundamentals
-- Build practical projects that solve real problems
-- Learn through open-source development
+### 幼儿园 OA 系统
 
-## 📫 Contact
+这是一个真实业务系统，源码和部署信息保持私有，不公开真实学校、人员、账号、服务器、数据库、日志或配置。
 
-You can reach me through [GitHub](https://github.com/shinji00222).
+我会以脱敏方式总结其中的工程经验，例如：
+
+- 登录认证与会话保持
+- 通知、文件、审批、考勤等业务模块
+- 角色权限与对象级访问控制
+- Node.js + MySQL 后端接口
+- uni-app H5 前端
+- 生产部署、冒烟测试和问题复盘
+
+如果需要公开展示，只会使用脱敏截图、泛化架构图和案例说明，不发布生产源码与敏感数据。
+
+## 当前目标
+
+- 把已有项目整理成清晰、可运行、可维护的 GitHub 仓库
+- 为每个项目补齐 README、运行方式、截图和下一步计划
+- 保持真实业务项目私有，只公开安全的脱敏经验
+- 继续建设 AI Agent 和多 Agent 协作相关项目
+
+## 联系
+
+可以通过 [GitHub](https://github.com/shinji00222) 了解我的公开项目。
 
