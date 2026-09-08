@@ -17,7 +17,7 @@
 
 一个 Windows 桌面小猫程序。这个项目主要是练 Python 桌面应用、打包和 GitHub Release。
 
-### [project](https://github.com/shinji00222/project)
+### [gdut-opportunity-watcher](https://github.com/shinji00222/gdut-opportunity-watcher)
 
 一个广工机会提醒工具，用来整理竞赛、实习和出国相关信息。这个项目主要是练信息收集、筛选和提醒。
 
