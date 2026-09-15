@@ -13,13 +13,21 @@
 
 ## 公开项目
 
-### [black-persian-cat](https://github.com/shinji00222/black-persian-cat)
+### [code-agent-collab](https://github.com/shinji00222/code-agent-collab)
 
-一个 Windows 桌面小猫程序。这个项目主要是练 Python 桌面应用、打包和 GitHub Release。
+一个本地优先的多 Agent 编程协作原型。这个项目主要是练 AI Agent 流程、任务拆分、代码审查和本地工具整合。
 
 ### [gdut-opportunity-watcher](https://github.com/shinji00222/gdut-opportunity-watcher)
 
 一个广工机会提醒工具，用来整理竞赛、实习和出国相关信息。这个项目主要是练信息收集、筛选和提醒。
+
+### [black-persian-cat](https://github.com/shinji00222/black-persian-cat)
+
+一个 Windows 桌面小猫程序。这个项目主要是练 Python 桌面应用、打包和 GitHub Release。
+
+### [dsh-desktop-app](https://github.com/shinji00222/dsh-desktop-app)
+
+一个给本地 DSH 服务用的 Windows 桌面壳。这个项目主要是练 Electron、启动脚本和桌面程序打包。
 
 ## 私有项目经历
 
@@ -42,8 +50,8 @@
 - 给能公开的项目补上截图和运行方式
 - 私有项目继续私有，只写脱敏总结
 - 慢慢做一个自己的 AI Agent 项目
+- 继续找合适的开源项目，先从小修复和文档改进入手
 
 ## 联系
 
 可以通过 [GitHub](https://github.com/shinji00222) 看我的公开项目。
-
