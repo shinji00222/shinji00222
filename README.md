@@ -1,56 +1,60 @@
 # Shinji
 
-我现在还在打基础，主要在学编程、全栈开发和 AI Agent。
+我现在主要在学全栈开发、AI Agent 和开源协作。
 
-这个主页先用来放我真正做过、能慢慢维护下去的项目。项目不一定很大，但我希望每个都能解决一个具体问题。
+这个主页放我真正做过、能继续维护的项目和贡献。项目不一定都很大，但我希望每个东西都有清楚的用途，也能经得起一点点实际验证。
 
-## 正在学习
+## 最近在做
 
-- C++、Python、数据结构与算法
-- 前端、Node.js、MySQL
-- Git、GitHub 和项目整理
-- AI Agent、多 Agent 协作
+- 做一个本地优先的多 Agent 编程协作工具，重点练 `Issue -> 分析仓库 -> 改代码 -> 跑测试 -> review diff` 这条闭环
+- 继续给大型开源项目提 PR，优先做能复现、能测试、能解释清楚的小修复
+- 把自己的项目 README、测试和发布流程整理得更像真实项目，而不是只放一份代码
+
+## 开源贡献
+
+目前有 6 个 merged PR，包括：
+
+- [OpenHands #17469](https://github.com/OpenHands/OpenHands/pull/17469)：修复 token 数量紧凑显示在四舍五入后跨单位时显示成 `1000.0k` 的边界问题
+- [typescript-eslint #12845](https://github.com/typescript-eslint/typescript-eslint/pull/12845)：修复 `unbound-method` 对 `Intl.Collator.compare` 的误报，按 ECMA-402 规范补回归用例
+- [vitest #11187](https://github.com/vitest-dev/vitest/pull/11187)：修正用户可见错误消息和注释里的拼写问题
+- [prettier #20003](https://github.com/prettier/prettier/pull/20003)：修正文档/注释拼写
+
+我更看重的是能把问题说清楚：哪里错、怎么复现、为什么这样改、用什么测试证明没有退步。
 
 ## 公开项目
 
 ### [code-agent-collab](https://github.com/shinji00222/code-agent-collab)
 
-一个本地优先的多 Agent 编程协作原型。这个项目主要是练 AI Agent 流程、任务拆分、代码审查和本地工具整合。
+本地优先的多 Agent 编程协作原型。现在主要围绕代码协作闭环做：上下文选择、草稿应用、审批基线、测试和回滚。
 
 ### [gdut-opportunity-watcher](https://github.com/shinji00222/gdut-opportunity-watcher)
 
-一个广工机会提醒工具，用来整理竞赛、实习和出国相关信息。这个项目主要是练信息收集、筛选和提醒。
+广工机会提醒工具，用来整理竞赛、实习和出国相关信息。重点是信息抓取、去重、筛选和提醒。
 
 ### [black-persian-cat](https://github.com/shinji00222/black-persian-cat)
 
-一个 Windows 桌面小猫程序。这个项目主要是练 Python 桌面应用、打包和 GitHub Release。
+Windows 桌面小猫程序。练 Python 桌面应用、打包、Release 和本地安装体验。
 
 ### [dsh-desktop-app](https://github.com/shinji00222/dsh-desktop-app)
 
-一个给本地 DSH 服务用的 Windows 桌面壳。这个项目主要是练 Electron、启动脚本和桌面程序打包。
+给本地 DSH 服务用的 Windows 桌面壳。这个仓库主要保留之前做桌面壳、启动脚本和打包时的经验。
 
 ## 私有项目经历
 
 ### 幼儿园 OA 系统
 
-这个项目涉及真实业务，所以源码和部署信息不公开。
+真实业务项目，源码和部署信息不公开。
 
-我只会在这里简单记录自己学到的东西，比如：
-
-- 登录和权限
-- 通知、文件、审批、考勤
-- 前端、后端和数据库怎么配合
-- 部署后怎么检查问题
+我只会在这里简单记录自己学到的东西，比如登录和权限、审批流、文件中心、考勤、前后端和数据库怎么配合，以及部署后怎么检查问题。
 
 真实学校、人员、账号、服务器、数据库、日志和配置都不会公开。
 
-## 接下来想做的事
+## 正在补的能力
 
-- 先把已有项目的 README 整理好
-- 给能公开的项目补上截图和运行方式
-- 私有项目继续私有，只写脱敏总结
-- 慢慢做一个自己的 AI Agent 项目
-- 继续找合适的开源项目，先从小修复和文档改进入手
+- C++、Python、TypeScript
+- 前端、Node.js、MySQL
+- Git/GitHub、CI、测试和项目整理
+- AI Agent、多 Agent 协作、MCP 和本地工具集成
 
 ## 联系
 
