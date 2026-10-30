@@ -12,7 +12,7 @@
 
 ## 开源贡献
 
-目前有 6 个 merged PR，包括：
+已有 5 个公开开源 PR 合并，包括：
 
 - [OpenHands #17469](https://github.com/OpenHands/OpenHands/pull/17469)：修复 token 数量紧凑显示在四舍五入后跨单位时显示成 `1000.0k` 的边界问题
 - [typescript-eslint #12845](https://github.com/typescript-eslint/typescript-eslint/pull/12845)：修复 `unbound-method` 对 `Intl.Collator.compare` 的误报，按 ECMA-402 规范补回归用例
@@ -27,17 +27,17 @@
 
 本地优先的多 Agent 编程协作原型。现在主要围绕代码协作闭环做：上下文选择、草稿应用、审批基线、测试和回滚。
 
-### [gdut-opportunity-watcher](https://github.com/shinji00222/gdut-opportunity-watcher)
+### [campus-opportunity-watcher](https://github.com/shinji00222/campus-opportunity-watcher)
 
-广工机会提醒工具，用来整理竞赛、实习和出国相关信息。重点是信息抓取、去重、筛选和提醒。
+校园机会提醒工具，用来整理竞赛、实习和出国相关信息。支持配置不同学校，重点是信息抓取、去重、筛选和提醒。
 
 ### [black-persian-cat](https://github.com/shinji00222/black-persian-cat)
 
 Windows 桌面小猫程序。练 Python 桌面应用、打包、Release 和本地安装体验。
 
-### [dsh-desktop-app](https://github.com/shinji00222/dsh-desktop-app)
+### [dsh-windows-computer-use](https://github.com/shinji00222/dsh-windows-computer-use)
 
-给本地 DSH 服务用的 Windows 桌面壳。这个仓库主要保留之前做桌面壳、启动脚本和打包时的经验。
+Windows 电脑控制插件，让 DSH 读取窗口和控件、执行操作并确认结果。目前是预览版。
 
 ## 私有项目经历
 
@@ -51,7 +51,7 @@ Windows 桌面小猫程序。练 Python 桌面应用、打包、Release 和本�
 
 ## 正在补的能力
 
-- C++、Python、TypeScript
+- C++、Python、TypeScript，以及 PyTorch 和机器学习基础
 - 前端、Node.js、MySQL
 - Git/GitHub、CI、测试和项目整理
 - AI Agent、多 Agent 协作、MCP 和本地工具集成
@@ -59,3 +59,4 @@ Windows 桌面小猫程序。练 Python 桌面应用、打包、Release 和本�
 ## 联系
 
 可以通过 [GitHub](https://github.com/shinji00222) 看我的公开项目。
+
