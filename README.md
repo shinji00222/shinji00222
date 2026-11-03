@@ -17,21 +17,7 @@
 
 ## 公开项目
 
-### [code-agent-collab](https://github.com/shinji00222/code-agent-collab)
-
-本地优先的多 Agent 编程协作原型。现在主要围绕代码协作闭环做：上下文选择、草稿应用、审批基线、测试和回滚。
-
-### [campus-opportunity-watcher](https://github.com/shinji00222/campus-opportunity-watcher)
-
-校园机会提醒工具，用来整理竞赛、实习和出国相关信息。支持配置不同学校，重点是信息抓取、去重、筛选和提醒。
-
-### [black-persian-cat](https://github.com/shinji00222/black-persian-cat)
-
-Windows 桌面小猫程序。练 Python 桌面应用、打包、Release 和本地安装体验。
-
-### [dsh-windows-computer-use](https://github.com/shinji00222/dsh-windows-computer-use)
-
-Windows 电脑控制插件，让 DSH 读取窗口和控件、执行操作并确认结果。目前是预览版。
+可以在 [GitHub 仓库列表](https://github.com/shinji00222?tab=repositories) 查看我的公开项目。
 
 ## 私有项目经历
 
