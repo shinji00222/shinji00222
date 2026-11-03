@@ -6,7 +6,9 @@
 
 ## 开源贡献
 
-已有 5 个公开开源 PR 合并，包括：
+我参与开源项目的问题修复和改进。可以查看 [已合并的开源 PR](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Ashinji00222+-user%3Ashinji00222) 和 [全部开源 PR](https://github.com/pulls?q=is%3Apr+author%3Ashinji00222+-user%3Ashinji00222)。
+
+部分贡献：
 
 - [OpenHands #17469](https://github.com/OpenHands/OpenHands/pull/17469)：修复 token 数量紧凑显示在四舍五入后跨单位时显示成 `1000.0k` 的边界问题
 - [typescript-eslint #12845](https://github.com/typescript-eslint/typescript-eslint/pull/12845)：修复 `unbound-method` 对 `Intl.Collator.compare` 的误报，按 ECMA-402 规范补回归用例
