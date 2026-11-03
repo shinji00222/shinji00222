@@ -12,8 +12,6 @@
 
 - [OpenHands #17469](https://github.com/OpenHands/OpenHands/pull/17469)：修复 token 数量紧凑显示在四舍五入后跨单位时显示成 `1000.0k` 的边界问题
 - [typescript-eslint #12845](https://github.com/typescript-eslint/typescript-eslint/pull/12845)：修复 `unbound-method` 对 `Intl.Collator.compare` 的误报，按 ECMA-402 规范补回归用例
-- [vitest #11187](https://github.com/vitest-dev/vitest/pull/11187)：修正用户可见错误消息和注释里的拼写问题
-- [prettier #20003](https://github.com/prettier/prettier/pull/20003)：修正文档/注释拼写
 
 我更看重的是能把问题说清楚：哪里错、怎么复现、为什么这样改、用什么测试证明没有退步。
 
